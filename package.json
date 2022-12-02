@@ -54,6 +54,7 @@
 	},
 	"homepage": "https://discord.js.org",
 	"dependencies": {
+		"@discordjs/formatters": "workspace:^",
 		"@discordjs/util": "workspace:^",
 		"@sapphire/shapeshift": "^3.7.1",
 		"discord-api-types": "^0.37.20",
